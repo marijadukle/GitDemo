@@ -52,6 +52,10 @@ public class ProductCatalogue extends AbstractComponent {
 		waitForElementToAppear(toastMessage);
 		waitForElementToDisappear(spinner);
 		System.out.println( "Hello World!" );
+		System.out.println( "Hello World!" );
+		System.out.println( "Hello World!" );
+		System.out.println( "Hello World!" );
+
 	}
 	
 	
